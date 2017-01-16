@@ -29,7 +29,7 @@ minetest.register_alias("farming:tomato_3", "crops:tomato_plant_2")
 minetest.register_alias("farming:tomato_4", "crops:tomato_plant_3")
 minetest.register_alias("farming:tomato_5", "crops:tomato_plant_3")
 minetest.register_alias("farming:tomato_6", "crops:tomato_plant_4")
-minetest.register_alias("farming:tomato_7", "crops:tomato_plant5")
+minetest.register_alias("farming:tomato_7", "crops:tomato_plant_5")
 
 -- carrot
 minetest.register_alias("farming:carrot", "crops:melon_slice")
